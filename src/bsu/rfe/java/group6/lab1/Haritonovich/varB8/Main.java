@@ -8,6 +8,7 @@ public class Main {
     public static void main(String[] args) throws Exception {
 
         Cheese cheese = new Cheese();
+
         ChewingGum chewingGumСherry = new ChewingGum("вишня");
         ChewingGum chewingGumMint = new ChewingGum("мята");
         ChewingGum chewingGumWatermelon = new ChewingGum("арбуз");
